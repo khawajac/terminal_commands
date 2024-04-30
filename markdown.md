@@ -1,4 +1,4 @@
-# Charisma's Terminal Commands Cheat Sheet
+# This is the one I did in the wrong file!
 
 ## Directory
 ``cd`` stands for change directory, use to access a folder/directory or to bring you back to the ~
