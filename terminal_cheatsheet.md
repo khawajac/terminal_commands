@@ -1,7 +1,7 @@
 # Charisma's Terminal Commands Cheat Sheet
 
 ## Directory
-``cd`` stands for change directory, use to access a folder/directory or to bring you back to the ~
+``cd`` this stands for change directory, you can use this to access a folder/directory or to bring you back to the ~
 
 Other ``cd`` commands:
 | Command | Description |
